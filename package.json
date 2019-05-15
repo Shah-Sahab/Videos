@@ -14,7 +14,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "vid -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -33,6 +33,7 @@
   },
   "homepage": "http://shah-sahab.github.io/Videos",
   "devDependencies": {
+    "gh-pages": "^2.0.1",
     "vid": "0.0.1"
   }
 }
