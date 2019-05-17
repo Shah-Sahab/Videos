@@ -1,8 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## To run a Demo of this project, please click on the following link,
-
-http://shah-sahab.github.io/Videos
+To run a Demo of this project, please [click here](http://shah-sahab.github.io/Videos).
 
 ## Available Scripts
 
